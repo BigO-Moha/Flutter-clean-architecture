@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "611562020475",
+    "project_id": "ddd-design-f1c36",
+    "storage_bucket": "ddd-design-f1c36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611562020475:android:cb2c2deac898140cc60cde",
+        "android_client_info": {
+          "package_name": "com.som.ddd_design"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611562020475-45na9s47d33t1tcrfmisuv7lkl26pj1p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.som.ddd_design",
+            "certificate_hash": "79c9081f451769af548714bd29e6da6dbaa03787"
+          }
+        },
+        {
+          "client_id": "611562020475-45pc5t0avlvp5obgpqfvu64diu3pc5fp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE4kPwJSTJPgi3VKlLOTChLbA2AA6JU0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611562020475-45pc5t0avlvp5obgpqfvu64diu3pc5fp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
