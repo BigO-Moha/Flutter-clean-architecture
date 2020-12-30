@@ -33,6 +33,8 @@ dependencies:
   get_it: ^4.0.4 
   google_sign_in: ^4.4.1
   injectable: ^1.0.5
+  auto_route:
+  uuid: 
 
 dev_dependencies:
   flutter_test:
